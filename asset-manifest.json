@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Elementalist-FYP-Website/static/css/main.e6c13ad2.css",
-    "main.js": "/Elementalist-FYP-Website/static/js/main.6b2f05d7.js",
+    "main.css": "/Elementalist-FYP-Website/static/css/main.ec80e624.css",
+    "main.js": "/Elementalist-FYP-Website/static/js/main.170fd999.js",
     "static/js/787.773b2202.chunk.js": "/Elementalist-FYP-Website/static/js/787.773b2202.chunk.js",
+    "static/media/Elementalist_Logo.jpg": "/Elementalist-FYP-Website/static/media/Elementalist_Logo.0e7a626071aa42777546.jpg",
+    "static/media/placeholder.jpg": "/Elementalist-FYP-Website/static/media/placeholder.85f71d4c0a1782d71759.jpg",
     "index.html": "/Elementalist-FYP-Website/index.html",
-    "main.e6c13ad2.css.map": "/Elementalist-FYP-Website/static/css/main.e6c13ad2.css.map",
-    "main.6b2f05d7.js.map": "/Elementalist-FYP-Website/static/js/main.6b2f05d7.js.map",
+    "main.ec80e624.css.map": "/Elementalist-FYP-Website/static/css/main.ec80e624.css.map",
+    "main.170fd999.js.map": "/Elementalist-FYP-Website/static/js/main.170fd999.js.map",
     "787.773b2202.chunk.js.map": "/Elementalist-FYP-Website/static/js/787.773b2202.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.6b2f05d7.js"
+    "static/css/main.ec80e624.css",
+    "static/js/main.170fd999.js"
   ]
 }
