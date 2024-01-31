@@ -17,7 +17,7 @@ const HomePage = () =>{
         <Container sx= {{alignContent: 'center', alignItems: 'center', justifyContent: 'center', display: 'flex', flexDirection: 'column',width:'75%', padding:'2em', margin:'2em auto'}}>
             <Box sx={{backgroundColor: 'black', padding: '1em', borderRadius: '2em', display: 'flex', width: '95%', justifyContent: 'center', alignItems: 'center'}}>
                 <Typography sx={{color: 'white'}} variant='h2'>Elementalist</Typography>
-                <img src={logo} alt="Elementalist Game Logo" width="80" height="70"  style={{ display: 'flex', marginLeft: '1em' }}/>
+                <img src={logo} alt="Elementalist Game Logo" width="70" height="70"  style={{ display: 'flex', marginLeft: '1em' }}/>
             </Box>
             <Divider sx={{width: '100%', margin: '1em 0'}} />
 
