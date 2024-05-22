@@ -1,7 +1,9 @@
 {
     "project_description" : 
-    "A 3D Turn Based Dungeon Crawler with a focus on a unique combat system in which different elements can be acquired from defeated enemies which provide the player with different abilities to use in combat. These elements can then be combined by the player in order to create new combinations, which will provide new abilities which differ from their component elements. In the game, the player will make their way through several procedurally generated floors of a dungeon environment, defeating enemies and growing in power in order to progress. By the end of the game, the player will have amassed a unique set of abilities which suit their playstyle. The combination of player customisation and procedural generation will make each playthrough of the game different and unique.",
+    "Elementalist is a 3D Turn Based Dungeon Crawler with a focus on a unique system in which elements can be acquired from defeated enemies which provide the player with different abilities to use in combat. These elements can then be combined by the player to create new combinations, which will provide new abilities which differ from their component elements. In the game, the player will make their way through several procedurally generated floors of a dungeon environment, defeating enemies and growing in power to progress. The game features a deep turn-based combat system which provides players with many different options and strategies to use in battle. The combination of player customisation and procedural generation will make each playthrough of the game different and unique.",
     "logo_image" : "Elementalist_Logo_nobackground2.png",
     "placeholder_image" : "placeholder.jpg",
-    "developer_image" : "Jack_donohoe_cropped.JPG"
+    "developer_image" : "Jack_donohoe_cropped.JPG",
+    "poster_image" : "FYP Poster - Elementalist(1).png",
+    "github_link" : "https://github.com/Jack-Donohoe/FinalYearProject-Elementalist"
 }
