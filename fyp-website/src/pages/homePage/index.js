@@ -2,6 +2,7 @@ import {React} from 'react';
 import {Container, Box, Typography, Divider, Grid, ListItem, ListItemIcon, ListItemText, List} from '@mui/material';
 import data from "../../data/main.json";
 import ImageCard from '../../components/ImageCard';
+import YoutubeEmbed from '../../components/YoutubeEmbed';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
 const HomePage = () =>{
@@ -53,8 +54,9 @@ const HomePage = () =>{
                     </Box>
                 </Grid>
                 <Grid item xs={8} md={8}>
-                    <Box sx={{backgroundColor: 'black', padding: '1em', borderRadius: '2em', display: 'flex', flexDirection: 'column', alignItems: 'center'}}>
+                    <Box sx={{backgroundColor: 'black', padding: '1em', borderRadius: '2em', display: 'flex', flexDirection: 'column', alignItems: 'center', height: '96%'}}>
                         <Typography sx={{color: 'white'}} variant='h5'>Demo Video</Typography>
+                        <YoutubeEmbed embedId="yCB9UgLQreE?si=B72ecD6AEyhiPq2X" />
                     </Box>
                 </Grid>
                 <Grid item xs={4} md={4}>
